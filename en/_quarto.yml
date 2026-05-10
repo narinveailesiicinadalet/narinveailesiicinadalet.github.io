@@ -163,8 +163,8 @@ highlight-style: a11y
 
 website:
   title: "Narin"
-  site-url: https://narineneoldu.github.io/en/
-  repo-url: https://github.com/narineneoldu/narineneoldu.github.io
+  site-url: https://narinveailesiicinadalet.github.io/en/
+  repo-url: https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io
   image: resources/images/narin_en.png
   favicon: resources/icons/favicon.png
   open-graph: true

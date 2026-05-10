@@ -6,6 +6,21 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Quarto tabanlı iki dilli (TR/EN) statik website: `narinveailesiicinadalet.github.io`. Narin Güran davası ile ilgili mahkeme ifadeleri, savunmalar, gerekçeli karar ve blog yazılarını sunar. GitHub Pages ile `docs/` klasöründen yayınlanır.
 
+## Fork ilişkisi
+
+Bu repo `narineneoldu/narineneoldu.github.io`'nun fork'udur. Ana içerik geliştirme upstream'de yapılır; bu fork branding (site-url, repo-url, navbar/footer linkleri, X.com handle, identity) farkıyla yan kanaldan yayınlanır. Cross-repo akışı için: `~/proj/narin_web/CLAUDE.md`.
+
+### Upstream'den sync
+
+```bash
+git fetch upstream
+git merge upstream/main
+./build && ./shared/bash/deploy.sh
+git push
+```
+
+`upstream` remote'u `narineneoldu` repo'sunu işaret eder; `origin` ise B'nin kendi GitHub'ı. Merge sırasında çakışma çıkan B-spesifik dosyalar için B versiyonunu koru: `git checkout --ours <dosya>`. B'de bilerek farklı tutulan dosyaların listesi parent CLAUDE.md'de.
+
 ## Derin Referans: `documentation/`
 
 `documentation/` altında dört architectural overview var. Kapsamlı (150-400 satır) cross-file bilgileri tek-dosya kod yorumlarında verilemediği için oraya yazıldı. Her birinin frontmatter'ında `last-verified` tarihi ve `verified-against-commits` aralığı var — eğer o aralıktan sonra ilgili dosyalarda önemli değişiklik olduysa docs'lara şüpheyle yaklaş ve koda güven.

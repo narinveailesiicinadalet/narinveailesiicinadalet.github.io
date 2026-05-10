@@ -5,16 +5,16 @@ description: "Bu arşiv sitesine içerik olarak nasıl katkıda bulunabileceğin
 
 Bu sayfa, Narin Güran davasına ilişkin bu arşiv sitesine nasıl katkıda bulunabileceğinizi anlatır. Site gönüllü bir çalışmadır; her geri bildirim eksikleri tamamlamamıza ve arşivi genişletmemize yardım eder.
 
-Sitenin kaynak kodu ve tüm içeriği açık biçimde [GitHub deposunda](https://github.com/narineneoldu/narineneoldu.github.io) yayımlanıyor. Aşağıdaki katkı yollarının hepsi **ücretsiz bir GitHub hesabı** gerektirir; nasıl açılacağı birazdan anlatılıyor.
+Sitenin kaynak kodu ve tüm içeriği açık biçimde [GitHub deposunda](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io) yayımlanıyor. Aşağıdaki katkı yollarının hepsi **ücretsiz bir GitHub hesabı** gerektirir; nasıl açılacağı birazdan anlatılıyor.
 
 ## Katkı seçenekleri — kısa özet
 
 | Ne yapmak istiyorsunuz? | Nereye gidin? |
 |---|---|
-| Belirli bir fotoğrafın galeriye eklenmesini istemek | [Issues](https://github.com/narineneoldu/narineneoldu.github.io/issues) |
-| Belirli bir blog yazısının siteye eklenmesini istemek | [Issues](https://github.com/narineneoldu/narineneoldu.github.io/issues) |
-| Bir hata, eksik veya yanlış bilgiyi bildirmek | [Issues](https://github.com/narineneoldu/narineneoldu.github.io/issues) |
-| Bir konu hakkında fikir alışverişinde bulunmak, tartışmak, soru sormak | [Discussions](https://github.com/narineneoldu/narineneoldu.github.io/discussions) |
+| Belirli bir fotoğrafın galeriye eklenmesini istemek | [Issues](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) |
+| Belirli bir blog yazısının siteye eklenmesini istemek | [Issues](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) |
+| Bir hata, eksik veya yanlış bilgiyi bildirmek | [Issues](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) |
+| Bir konu hakkında fikir alışverişinde bulunmak, tartışmak, soru sormak | [Discussions](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions) |
 
 ## 1. Önce bir GitHub hesabı açın
 
@@ -29,7 +29,7 @@ Hesabınızı açtıktan sonra bu sayfadaki bağlantıların herhangi birini tı
 
 ## 2. Issues — istek ve bildirim
 
-[Issues sayfası](https://github.com/narineneoldu/narineneoldu.github.io/issues), somut isteklerin ve hata bildirimlerinin yapıldığı yerdir.
+[Issues sayfası](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues), somut isteklerin ve hata bildirimlerinin yapıldığı yerdir.
 
 ### Hangi durumlarda issue açılır?
 
@@ -41,7 +41,7 @@ Hesabınızı açtıktan sonra bu sayfadaki bağlantıların herhangi birini tı
 
 ### Nasıl açılır?
 
-1. [Issues sayfasını](https://github.com/narineneoldu/narineneoldu.github.io/issues) açın.
+1. [Issues sayfasını](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) açın.
 2. Sağ üstteki yeşil "**New issue**" (Yeni konu) düğmesine tıklayın.
 3. **Başlık** (Title) kısmına kısa ve açıklayıcı bir özet yazın. Örnekler:
    - "Güran Ailesi kategorisine yeni fotoğraf eklenmesi talebi"
@@ -58,7 +58,7 @@ Açtığınız issue'a herkes yorum yazabilir; biz de ekleme yapıldığında ve
 
 ## 3. Discussions — tartışma ve fikir alışverişi
 
-[Discussions sayfası](https://github.com/narineneoldu/narineneoldu.github.io/discussions), açık uçlu konuşmaların yeridir. Kesin bir *istek* ya da *hata* değil; bir düşünce, soru veya yorum paylaşmak istiyorsanız buradan başlayın.
+[Discussions sayfası](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions), açık uçlu konuşmaların yeridir. Kesin bir *istek* ya da *hata* değil; bir düşünce, soru veya yorum paylaşmak istiyorsanız buradan başlayın.
 
 ### Hangi durumlarda discussion açılır?
 
@@ -69,7 +69,7 @@ Açtığınız issue'a herkes yorum yazabilir; biz de ekleme yapıldığında ve
 
 ### Nasıl açılır?
 
-1. [Discussions sayfasını](https://github.com/narineneoldu/narineneoldu.github.io/discussions) açın.
+1. [Discussions sayfasını](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions) açın.
 2. Sağ üstteki "**New discussion**" (Yeni tartışma) düğmesine tıklayın.
 3. Uygun bir kategori seçin (örneğin *General*, *Q&A*, *Ideas*).
 4. Başlık ve içeriğinizi yazın.
@@ -79,4 +79,4 @@ Başkalarının açtığı tartışmalara da yorum yazabilir, beğenebilir ya da
 
 ## Soru ve destek
 
-Herhangi bir adımda takılırsanız veya eminsiz olduğunuz bir durum varsa [Discussions](https://github.com/narineneoldu/narineneoldu.github.io/discussions) bölümünde çekinmeden soru açabilirsiniz. Her soru ve geri bildirim, arşivin daha eksiksiz olmasına yardımcı olur.
+Herhangi bir adımda takılırsanız veya eminsiz olduğunuz bir durum varsa [Discussions](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions) bölümünde çekinmeden soru açabilirsiniz. Her soru ve geri bildirim, arşivin daha eksiksiz olmasına yardımcı olur.

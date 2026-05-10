@@ -15,7 +15,7 @@ scope: cross-file architecture and build/deploy flow
 ## Directory layout
 
 ```
-narineneoldu.github.io/
+narinveailesiicinadalet.github.io/
 ├── tr/               # Turkish site — CANONICAL source
 │   ├── _quarto.yml   # Global config: website, filters, metadata, resources
 │   ├── _quarto-dev.yml, _quarto-prod.yml   # Profile overrides

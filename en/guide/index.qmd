@@ -5,16 +5,16 @@ description: "A short guide on how you can contribute content to this archive si
 
 This page explains how you can contribute to this archive about the Narin Güran case. The site is maintained as a volunteer effort; every piece of feedback helps us fill in gaps and extend the archive.
 
-The site's source code and all its content are openly published in its [GitHub repository](https://github.com/narineneoldu/narineneoldu.github.io). All of the contribution paths below require a **free GitHub account**; the next section explains how to create one.
+The site's source code and all its content are openly published in its [GitHub repository](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io). All of the contribution paths below require a **free GitHub account**; the next section explains how to create one.
 
 ## Ways to contribute — at a glance
 
 | What would you like to do? | Where to go |
 |---|---|
-| Request that a specific photo be added to the gallery | [Issues](https://github.com/narineneoldu/narineneoldu.github.io/issues) |
-| Request that a specific blog article be added to the site | [Issues](https://github.com/narineneoldu/narineneoldu.github.io/issues) |
-| Report an error, gap or incorrect information | [Issues](https://github.com/narineneoldu/narineneoldu.github.io/issues) |
-| Exchange ideas, debate or ask a question on a topic | [Discussions](https://github.com/narineneoldu/narineneoldu.github.io/discussions) |
+| Request that a specific photo be added to the gallery | [Issues](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) |
+| Request that a specific blog article be added to the site | [Issues](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) |
+| Report an error, gap or incorrect information | [Issues](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) |
+| Exchange ideas, debate or ask a question on a topic | [Discussions](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions) |
 
 ## 1. Create a GitHub account first
 
@@ -29,7 +29,7 @@ Once you have an account, clicking any of the links on this page will prompt Git
 
 ## 2. Issues — requests and reports
 
-The [Issues page](https://github.com/narineneoldu/narineneoldu.github.io/issues) is where concrete requests and error reports are made.
+The [Issues page](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues) is where concrete requests and error reports are made.
 
 ### When to open an issue
 
@@ -41,7 +41,7 @@ The [Issues page](https://github.com/narineneoldu/narineneoldu.github.io/issues)
 
 ### How to open one
 
-1. Open the [Issues page](https://github.com/narineneoldu/narineneoldu.github.io/issues).
+1. Open the [Issues page](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues).
 2. Click the green "**New issue**" button in the top right.
 3. Give it a short, descriptive **Title**. For example:
    - "Request: new photo for the Güran Family category"
@@ -58,7 +58,7 @@ Anyone can comment on the issue you open; we reply under the issue to update its
 
 ## 3. Discussions — ideas and exchange
 
-The [Discussions page](https://github.com/narineneoldu/narineneoldu.github.io/discussions) is for open-ended conversations. If you do not have a concrete *request* or *error report* but want to share a thought, ask a question, or comment on something, this is the right place.
+The [Discussions page](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions) is for open-ended conversations. If you do not have a concrete *request* or *error report* but want to share a thought, ask a question, or comment on something, this is the right place.
 
 ### When to open a discussion
 
@@ -69,7 +69,7 @@ The [Discussions page](https://github.com/narineneoldu/narineneoldu.github.io/di
 
 ### How to open one
 
-1. Open the [Discussions page](https://github.com/narineneoldu/narineneoldu.github.io/discussions).
+1. Open the [Discussions page](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions).
 2. Click the "**New discussion**" button in the top right.
 3. Choose an appropriate category (for example *General*, *Q&A*, *Ideas*).
 4. Write your title and content.
@@ -79,4 +79,4 @@ You can also comment on, like or upvote discussions opened by others.
 
 ## Questions and support
 
-If you get stuck at any step or aren't sure what to do, feel free to open a question in the [Discussions](https://github.com/narineneoldu/narineneoldu.github.io/discussions) section. Every question and every piece of feedback helps the archive become more complete.
+If you get stuck at any step or aren't sure what to do, feel free to open a question in the [Discussions](https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions) section. Every question and every piece of feedback helps the archive become more complete.

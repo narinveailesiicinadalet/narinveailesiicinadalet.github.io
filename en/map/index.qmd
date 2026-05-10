@@ -4,14 +4,14 @@ page-layout: full
 twitter-card:
   title: "Map — Narin Güran case"
   description: "Locations, cameras and tracked routes around Tavşantepe village."
-  image: https://narineneoldu.github.io/resources/images/map-card.png
+  image: https://narinveailesiicinadalet.github.io/resources/images/map-card.png
   card-style: summary_large_image
-  site: "@narineneoldu"
-  creator: "@narineneoldu"
+  site: "@narinveailesi"
+  creator: "@narinveailesi"
 open-graph:
   title: "Map — Narin Güran case"
   description: "Locations, cameras and tracked routes around Tavşantepe village."
-  image: https://narineneoldu.github.io/resources/images/map-card.png
+  image: https://narinveailesiicinadalet.github.io/resources/images/map-card.png
   locale: en_US
 include-in-header:
   - text: |
@@ -60,7 +60,7 @@ include-in-header:
   ];
 
   // Dev mode: enabled outside the production domain (localhost, preview, etc.)
-  const isDev = !window.location.hostname.includes('narineneoldu.github.io');
+  const isDev = !window.location.hostname.includes('narinveailesiicinadalet.github.io');
 
   const makeIcon = (color) => L.icon({
     iconUrl: '/resources/images/markers/marker-icon-2x-' + color + '.png',

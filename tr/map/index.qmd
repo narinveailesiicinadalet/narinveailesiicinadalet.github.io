@@ -4,14 +4,14 @@ page-layout: full
 twitter-card:
   title: "Harita — Narin Güran davası"
   description: "Tavşantepe köyü ve çevresindeki olay konumları, kameralar ve izlenen yollar."
-  image: https://narineneoldu.github.io/resources/images/map-card.png
+  image: https://narinveailesiicinadalet.github.io/resources/images/map-card.png
   card-style: summary_large_image
-  site: "@narineneoldu"
-  creator: "@narineneoldu"
+  site: "@narinveailesi"
+  creator: "@narinveailesi"
 open-graph:
   title: "Harita — Narin Güran davası"
   description: "Tavşantepe köyü ve çevresindeki olay konumları, kameralar ve izlenen yollar."
-  image: https://narineneoldu.github.io/resources/images/map-card.png
+  image: https://narinveailesiicinadalet.github.io/resources/images/map-card.png
   locale: tr_TR
 include-in-header:
   - text: |
@@ -60,7 +60,7 @@ include-in-header:
   ];
 
   // Dev modu: production domain'i dışında (localhost, preview vb.) aktif
-  const isDev = !window.location.hostname.includes('narineneoldu.github.io');
+  const isDev = !window.location.hostname.includes('narinveailesiicinadalet.github.io');
 
   const makeIcon = (color) => L.icon({
     iconUrl: '/resources/images/markers/marker-icon-2x-' + color + '.png',

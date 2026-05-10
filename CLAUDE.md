@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Proje Özeti
 
-Quarto tabanlı iki dilli (TR/EN) statik website: `narineneoldu.github.io`. Narin Güran davası ile ilgili mahkeme ifadeleri, savunmalar, gerekçeli karar ve blog yazılarını sunar. GitHub Pages ile `docs/` klasöründen yayınlanır.
+Quarto tabanlı iki dilli (TR/EN) statik website: `narinveailesiicinadalet.github.io`. Narin Güran davası ile ilgili mahkeme ifadeleri, savunmalar, gerekçeli karar ve blog yazılarını sunar. GitHub Pages ile `docs/` klasöründen yayınlanır.
 
 ## Derin Referans: `documentation/`
 
@@ -33,7 +33,7 @@ Tüm script'ler `dev` (varsayılan) veya `prod` Quarto profilini kabul eder.
 ./shared/bash/deploy.sh   # tr/_site → docs/ rsync (canlıya alma)
 ```
 
-**Build ≠ deploy**: `./build` sadece `tr/_site`/`en/_site` altında render eder. Canlı site (`narineneoldu.github.io`, `docs/` dizininden yayınlanıyor) güncellenmek için **`deploy.sh`'in ayrıca çalıştırılması gerekir**. `build` script'inin çıktı mesajı `docs/` yazar ama yanıltıcıdır — gerçek deploy yapmaz. Bu ikiye ayırma kasıtlı: kullanıcı iş akışı "birden fazla değişiklik yap + commit'le → hepsi bittiğinde tek seferlik deploy" şeklinde.
+**Build ≠ deploy**: `./build` sadece `tr/_site`/`en/_site` altında render eder. Canlı site (`narinveailesiicinadalet.github.io`, `docs/` dizininden yayınlanıyor) güncellenmek için **`deploy.sh`'in ayrıca çalıştırılması gerekir**. `build` script'inin çıktı mesajı `docs/` yazar ama yanıltıcıdır — gerçek deploy yapmaz. Bu ikiye ayırma kasıtlı: kullanıcı iş akışı "birden fazla değişiklik yap + commit'le → hepsi bittiğinde tek seferlik deploy" şeklinde.
 
 **Yaklaşık build süreleri** (lokal, MacPorts Python 3.11, M-serisi Mac):
 - TR tek başına: ~130s total (~74s Quarto render + hook'lar)
@@ -155,14 +155,14 @@ Minör: `os.clock()` CPU time ölçer, wall-clock değil — paralel filter'lard
 
 Bu repo **git-guard** ile koruma altındadır (`.git-identity-guard` commit'li). Identity politikası:
 
-- **Account**: `narineneoldu` (NOT `isezen` — Claude Code'un default kimliği)
-- **Email**: `224759555+narineneoldu@users.noreply.github.com`
-- **Name**: `narineneoldu`
-- **Remote**: `git@github-narineneoldu:narineneoldu/narineneoldu.github.io.git` (SSH host alias, `github.com` değil)
+- **Account**: `narinveailesiicinadalet` (NOT `isezen` — Claude Code'un default kimliği)
+- **Email**: `283383939+narinveailesiicinadalet@users.noreply.github.com`
+- **Name**: `narinveailesiicinadalet`
+- **Remote**: `git@github-narinveailesiicinadalet:narinveailesiicinadalet/narinveailesiicinadalet.github.io.git` (SSH host alias, `github.com` değil)
 
 Yanlış identity ile commit/push yapılırsa hook blocklar. Yeni bir clone'da bu identity repo-local olarak yeniden set edilmelidir. `.git-identity-guard` policy dosyası repo'da kalıcıdır.
 
-**Commit mesajlarında Claude attribution kullanma** — bu repo'ya özgü kural. Commit history'de sadece `narineneoldu` görünmeli; `Co-Authored-By: Claude ...` satırı eklenmez.
+**Commit mesajlarında Claude attribution kullanma** — bu repo'ya özgü kural. Commit history'de sadece `narinveailesiicinadalet` görünmeli; `Co-Authored-By: Claude ...` satırı eklenmez.
 
 ## Bilinen Kapalı Konular
 

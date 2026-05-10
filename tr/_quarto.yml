@@ -187,10 +187,10 @@ website:
       - text:  "<a class='nav-link bi bi-patch-question' href='/faq' aria-label='SSS'><span class='svg-mask'></span> SSS</a>"
     right:
       - icon: twitter-x
-        href: https://X.com/narineneoldu
+        href: https://X.com/narinveailesi
         aria-label: Twitter
       - icon: github
-        href: https://github.com/narineneoldu/narineneoldu.github.io
+        href: https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io
         aria-label: GitHub
       - icon: rss
         href: https://quarto.org/blog/index.xml
@@ -235,22 +235,22 @@ website:
             href: guide/index.qmd
           - text: "Eksik Bildir"
             icon: "bug"
-            href: "https://github.com/narineneoldu/narineneoldu.github.io/issues"
+            href: "https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/issues"
           - text: "Soru sor"
             icon: "chat-right-text"
-            href: "https://github.com/narineneoldu/narineneoldu.github.io/discussions"
+            href: "https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions"
           - text: "SSS"
             icon: "question-circle"
             href: faq/index.qmd
     tools:
       - icon: twitter-x
-        href: https://X.com/narineneoldu
+        href: https://X.com/narinveailesi
         text: Twitter
       - icon: github
-        href: https://github.com/narineneoldu/narineneoldu.github.io
+        href: https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io
         text: GitHub
       - icon: chat-quote
-        href: https://github.com/narineneoldu/narineneoldu.github.io/discussions
+        href: https://github.com/narinveailesiicinadalet/narinveailesiicinadalet.github.io/discussions
         text: Tartışma
 
   sidebar:
